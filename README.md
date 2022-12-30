@@ -54,7 +54,7 @@ AI for Science
   - 模型：不同时空尺度下各种物理模型，包括终极难题多体薛定谔方程和Navier-Stokes方程
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/118708553/210034916-8e241f95-e3bf-4201-ad97-76e2255fa8d2.png"/>
+<img src="https://user-images.githubusercontent.com/118708553/210034981-c6e85f24-fe3f-4878-a827-dd1d67736276.png"/>
 </div>
 
 
