@@ -115,6 +115,6 @@ AI for Science
     - 西北大学的Wolverton团队、斯坦福大学SLAC国家加速器实验室的Apurva Mehta、麻省理工学院材料科学家Elsa Olivetti用AI来解决如何生成新的金属玻璃混合物的问题。这比起在实验室进行实验快了200倍。（数据+模型）
     - 瑞士洛桑联邦理工大学研究员Nicola Marzari利用数据库查找可剥离的3D材料，以创建仅有一层的2D材料
   - AI 制药
-    - AI制药 （https://github.com/wangzuzihan/AIDD）
+    - AI制药 https://github.com/wangzuzihan/AIDD
     - 2018年2月，AI新药研发公司Insitro成立，2021年完成C轮融资后累积资金额达7.43亿美元。Insitro致力于利用大数据、机器学习以及生命科学领域的融合创新技术，重新构建药物设计过程.
 
